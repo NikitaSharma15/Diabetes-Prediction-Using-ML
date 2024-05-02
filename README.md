@@ -27,8 +27,31 @@ AFTER FOODING BLOOD SUGAR LEVELS :
 ● After two hours, > 200 mg/dL(or above) -
 Unhealthy or Diabetes.
 
+Requirements Of Hardware :
+
+● System - Core i7 processor
+● Hard disk - 512 Gigabyte(GB)
+● Ram - 8 Gigabyte(GB)
+● Devices - Monitor, Keyboard, Mouse
+
+SOFTWARE REQUIREMENTS :
+
+• Operating System - Window 10
+• Coding Language - Python 3.12.2
+• Platform – Jupyter Notebook
+
 Machine learning algorithms were analyzed using
 Pima Indian diabetes dataset..They include the Logistic Regression,
 Decision Tree, & Random Forest algorithms and the Logistic Algorithm turned
 out to be the most effective one in all other
 Algorithms in the study’s dataset.
+
+CONCLUSION
+Mostly critical real medicative issues is early identification of
+diabetes. This work uses system efforts to create a system that
+predicts diabetes. Outliers are found in dataset and replaced
+with mean value in each one feature. In smaller size of dataset,
+eight predictors were used only to predict diabetes and nondiabetes. And these eight predictors also help to create
+machine learning models. Logistic regression was shown to be
+the most effective model in the dataset. Our study's findings
+demonstrate that logistic regression is the best model for predicting diabetes.
