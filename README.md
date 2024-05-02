@@ -14,7 +14,7 @@ FASTING BLOOD SUGAR LEVELS :
 
  < 100 (up to 99) mg/dL - Normal ;
  Between from 100-125 mg/dL - Prediabetes ;
-> 126 mg/dL(or above) - Diabetes.
+ > 126 mg/dL(or above) - Diabetes.
 
 AFTER FOODING BLOOD SUGAR LEVELS :
 
@@ -43,6 +43,7 @@ out to be the most effective one in all other
 Algorithms in the study’s dataset.
 
 CONCLUSION
+
 Mostly critical real medicative issues is early identification of
 diabetes. This work uses system efforts to create a system that
 predicts diabetes. Outliers are found in dataset and replaced
