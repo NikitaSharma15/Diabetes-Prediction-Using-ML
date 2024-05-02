@@ -9,3 +9,20 @@ is supposed to release insulin. Insulin serves as a key to open our cells, to al
 us to use the glucose for energy.
 High blood glucose produces the symptoms of frequent urination, increased
 thirst, and increased hunger. 
+
+FASTING BLOOD SUGAR LEVELS :
+● < 100 (up to 99) mg/dL - Normal
+● Between from 100-125 mg/dL - Prediabetes
+● > 126 mg/dL(or above) - Diabetes.
+
+AFTER FOODING BLOOD SUGAR LEVELS :
+● After two hours, < 140 mg/dL - Healthy
+● Between from 140-199 mg/dL - Prediabetes
+● After two hours, > 200 mg/dL(or above) -
+Unhealthy or Diabetes.
+
+Machine learning algorithms were analyzed using
+Pima Indian diabetes dataset..They include the Logistic Regression,
+Decision Tree, & Random Forest algorithms and the Logistic Algorithm turned
+out to be the most effective one in all other
+Algorithms in the study’s dataset.
