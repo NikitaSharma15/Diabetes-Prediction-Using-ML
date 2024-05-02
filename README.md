@@ -11,6 +11,7 @@ High blood glucose produces the symptoms of frequent urination, increased
 thirst, and increased hunger. 
 
 FASTING BLOOD SUGAR LEVELS :
+
 ● < 100 (up to 99) mg/dL - Normal
 
 ● Between from 100-125 mg/dL - Prediabetes
@@ -18,6 +19,7 @@ FASTING BLOOD SUGAR LEVELS :
 ● > 126 mg/dL(or above) - Diabetes.
 
 AFTER FOODING BLOOD SUGAR LEVELS :
+
 ● After two hours, < 140 mg/dL - Healthy
 
 ● Between from 140-199 mg/dL - Prediabetes
