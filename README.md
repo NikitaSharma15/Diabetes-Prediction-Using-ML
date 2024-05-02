@@ -27,12 +27,12 @@ AFTER FOODING BLOOD SUGAR LEVELS :
 ● After two hours, > 200 mg/dL(or above) -
 Unhealthy or Diabetes.
 
-Requirements Of Hardware :
+HARDWARE REQUIREMENTS :
 
-● System - Core i7 processor
-● Hard disk - 512 Gigabyte(GB)
-● Ram - 8 Gigabyte(GB)
-● Devices - Monitor, Keyboard, Mouse
+• System - Core i7 processor
+• Hard disk - 512 GB
+• Ram - 8 GB
+• Devices - Monitor, Keyboard, Mouse
 
 SOFTWARE REQUIREMENTS :
 
